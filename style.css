@@ -62,3 +62,14 @@ a{
     display: block;
     
 }
+.third-banner{
+    display: flex;
+    margin: 20px 100px;
+}
+.third-banner-width{
+    width: 33.33%;
+    margin: 20px;
+}
+.third-banner-width img{
+    width: 100%;
+}
