@@ -107,3 +107,60 @@ a{
 .help-img i{
     font-size: 35px;
 }
+/*  */
+.forth{
+    display: flex;
+}
+.forth-width{
+    width: 33.33%;
+    text-align: left;
+}
+.forth-width h3, p{
+    padding-left: 25px;
+    padding-top: 10px;
+}
+.forth-width h3{
+    font-size: 25px;
+    font-weight: 600;
+}
+.forth-width p{
+    font-size: 20px;
+    font-weight: 300;
+}
+button{
+    padding: 10px 15px;
+    margin-top: 15px;
+    margin-left: 25px;
+    background-color: #ef233c;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+}
+.forth-width img{
+    width: 100%;
+    padding: 15px;
+    margin: 10px;
+}
+.forth-section{
+    margin: 25px 100px;
+}
+.forth-text{
+    text-align: center;
+}
+.forth-text h1{
+    font-size: 35px;
+    padding: 20px;
+}
+.forth-text p{
+    font-size: 20px;
+    padding: 10px;
+}
+/*  */
+footer{
+    background-color: #ef233c;
+    color: white;
+    padding: 80px;
+    text-align: center;
+}
